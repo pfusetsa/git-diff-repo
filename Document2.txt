@@ -1,15 +1,5 @@
-lasdlkansdkajsldkajsd
+SELECT * FROM TABLE2;
 
-asd
+INSERT (A,B);
 
-AAAAA
-
-asdasd
-
-
-ASDASD
-
-
-asd
-
-ASDASD
+CREATE TABLE3;
